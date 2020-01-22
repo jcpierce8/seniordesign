@@ -1,0 +1,11 @@
+table {
+    float:right;
+    background:yellow;
+    margin-left:10px;
+    margin: 20px auto;
+    width: 1000px;
+
+
+.leftt{
+  float: left;
+}

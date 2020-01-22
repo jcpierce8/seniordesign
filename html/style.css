@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.Wrapper{
+  margin: 0 auto;
+  width: 1000px;
+}
+
+nav{
+  width: 100%;
+  height: 100px;
+  background-color: #800080;
+}
+
+ul{
+  margin-left: 60px;
+}
+
+ul li{
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+}
+
+ul li a{
+  text-decoration: none;
+  font-size: 14px;
+  padding: 0 20px;
+  display: block;
+  color: white;
+}
+
+ul li a:hover{
+
+  color: gold;
+}
+
+body{
+  background-color: #eee;
+}
+
+.Date{
+  float: right;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+}
+
+.StudentBio{
+  background-color: white;
+  height: 50px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.Name{
+  text-decoration: none;
+  float: left;
+  font-size: 16px;
+}
+
+.LogOut{
+  float: right;
+  font-size: 16px;
+  text-decoration: underline;
+}
+.details{
+  width: 1000px;
+  text-align: center;
+  background-color: gold;
+  font-size: 16px;
+  border-style: solid;
+}
+
+table{
+  width: 450px;
+}
+
+th{
+  text-align: center;
+}
+
+table, th, td{
+  border: 1px solid #000;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.Classification{
+  background-color: gold;
+}
+
+.tableBackground{
+  background-color: #ddd;
+}
+
+.Fall{
+  float: left;
+  margin: 20px;
+  margin-left: 0px;
+}
+
+.Spring{
+  float: right;
+  margin: 20px;
+  margin-right: 0px;
+}
